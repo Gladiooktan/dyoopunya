@@ -1,0 +1,5 @@
+1. menjalankan laravel php artisan serve ( terminal )
+2. hapus storage bila gambar tidak muncul jalan kan php artisan storage:link ( terminal )
+3. menjalankan ngrokk 
+4. copy http yg di ngrokk tempel di website midtrans
+5. ketika bayar copy kode temple ke bank yg sesuai di minta pergi ke website midrans simulator
